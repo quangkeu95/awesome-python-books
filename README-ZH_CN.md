@@ -46,7 +46,7 @@
 ## 数据结构与算法
 - 《Data Structures and Algorithms in Python》[豆瓣](https://book.douban.com/subject/10607365/)
 - 《Problem Solving with Algorithms and Data Structures Using Python》[豆瓣](https://book.douban.com/subject/21325184/)
-- 《Python算法教程》[中文版](https://www.amazon.cn/dp/B019NB0VCI) / [豆瓣](https://book.douban.com/subject/26699412/)
+- 《Python算法教程》[亚马逊](https://www.amazon.cn/dp/B019NB0VCI) / [豆瓣](https://book.douban.com/subject/26699412/)
 
 ## 游戏开发
 - 《Python和Pygame游戏开发指南》[亚马逊](https://www.amazon.cn/dp/B019IZ6ZWO) / [豆瓣](https://book.douban.com/subject/26702574/)
