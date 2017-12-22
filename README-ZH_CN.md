@@ -52,7 +52,7 @@
 - 《Python和Pygame游戏开发指南》[亚马逊](https://www.amazon.cn/dp/B019IZ6ZWO) / [豆瓣](https://book.douban.com/subject/26702574/)
 
 ## 硬件
-- 《真实世界的Python仪器监控》[亚马逊](https://book.douban.com/subject/20773481/) / [豆瓣](https://book.douban.com/subject/20773481/)
+- 《真实世界的Python仪器监控》[豆瓣](https://book.douban.com/subject/20773481/)
 
 ## 机器学习
 - 《机器学习系统设计》[豆瓣](https://book.douban.com/subject/25899625/)
