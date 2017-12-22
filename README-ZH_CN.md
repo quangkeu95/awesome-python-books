@@ -25,7 +25,7 @@
     - 《Python编程实战:运用设计模式、并发和程序库创建高质量程序》[亚马逊](https://www.amazon.cn/dp/B00MHDPIJ6) / [豆瓣](https://book.douban.com/subject/25955274/)
     - 《Python高级编程》[亚马逊](https://book.douban.com/subject/4212921/) / [豆瓣](https://book.douban.com/subject/27133480/)
     - 《Python应用核心编程》[豆瓣](https://book.douban.com/subject/26801374/)
-    - 《Python进阶》[亚马逊](https://eastlakeside.gitbooks.io/interpy-zh/content/)
+    - 《Python进阶》[在线](https://eastlakeside.gitbooks.io/interpy-zh/content/)
     - 《Effective Python:编写高质量Python代码的59个有效方法》[亚马逊](https://www.amazon.cn/dp/B01ASI36QS) / [豆瓣](https://book.douban.com/subject/26709315/)
     - 《流畅的Python》[亚马逊](https://www.amazon.cn/dp/B072HMKKPG) / [豆瓣](https://book.douban.com/subject/27028517/)
     - 《Python设计模式》[亚马逊](https://www.amazon.cn/dp/B073MDN9KZ) / [豆瓣](https://book.douban.com/subject/27091288/)
