@@ -28,7 +28,7 @@
     - 《Python进阶》[亚马逊](https://eastlakeside.gitbooks.io/interpy-zh/content/)
     - 《Effective Python:编写高质量Python代码的59个有效方法》[亚马逊](https://www.amazon.cn/dp/B01ASI36QS) / [豆瓣](https://book.douban.com/subject/26709315/)
     - 《流畅的Python》[亚马逊](https://www.amazon.cn/dp/B072HMKKPG) / [豆瓣](https://book.douban.com/subject/27028517/)
-    - 《Learning Python Design Patterns》
+    - 《Python设计模式》[亚马逊](https://www.amazon.cn/dp/B073MDN9KZ) / [豆瓣](https://book.douban.com/subject/27091288/)
     - 《精通 Python 设计模式》[亚马逊](https://www.amazon.cn/dp/B01ION3VW8) / [豆瓣](https://book.douban.com/subject/26829015/)
 
 - 高阶
