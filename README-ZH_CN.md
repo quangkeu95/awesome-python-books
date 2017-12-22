@@ -55,7 +55,7 @@
 - 《真实世界的Python仪器监控》[豆瓣](https://book.douban.com/subject/20773481/)
 
 ## 机器学习
-- 《机器学习系统设计》[豆瓣](https://book.douban.com/subject/25899625/)
+- 《机器学习系统设计》[亚马逊](https://www.amazon.cn/dp/B00KYXKIDM) / [豆瓣](https://book.douban.com/subject/25899625/)
 - 《机器学习实战》[亚马逊](https://www.amazon.cn/dp/B00D747PTK) / [豆瓣](https://book.douban.com/subject/24703171/)
 - 《集体智慧编程》[亚马逊](https://www.amazon.cn/dp/B00UI93JD8) / [豆瓣](https://book.douban.com/subject/3288908/)
 
