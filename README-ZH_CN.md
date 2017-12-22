@@ -15,6 +15,7 @@
     - 《Python基础教程》[亚马逊](https://www.amazon.cn/dp/B00KAFX65Q) / [豆瓣](https://book.douban.com/subject/25880388/)
     - 《像计算机科学家一样思考Python》[亚马逊](https://www.amazon.cn/dp/B01ION3W54/) / [豆瓣](https://book.douban.com/subject/26870407/)
     - 《Python学习手册》[亚马逊](https://www.amazon.cn/dp/B004TUJ7A6) / [豆瓣](https://book.douban.com/subject/6049132/)
+    - 《Python编程》[亚马逊](https://www.amazon.cn/dp/B00R3UI2NC) / [豆瓣](https://book.douban.com/subject/26314833/) 
     - 《Python核心编程》[亚马逊](https://www.amazon.cn/Python/dp/B01FQAS0KK) / [豆瓣](https://book.douban.com/subject/26801374/)
     - 《Python编程 从入门到实践》[亚马逊](https://www.amazon.cn/dp/B01ION3VWI/) / [豆瓣](https://book.douban.com/subject/26829016/)
 
@@ -23,7 +24,6 @@
     - 《Python高手之路》[亚马逊](https://www.amazon.cn/dp/B00X65PEFC) / [豆瓣](https://book.douban.com/subject/26389274/)
     - 《Python编程实战:运用设计模式、并发和程序库创建高质量程序》[亚马逊](https://www.amazon.cn/dp/B00MHDPIJ6) / [豆瓣](https://book.douban.com/subject/25955274/)
     - 《Python高级编程》[亚马逊](https://book.douban.com/subject/4212921/) / [豆瓣](https://book.douban.com/subject/27133480/)
-    - 《Programming Python》
     - 《Python应用核心编程》
     - 《Python进阶》[亚马逊](https://eastlakeside.gitbooks.io/interpy-zh/content/)
     - 《Effective Python:编写高质量Python代码的59个有效方法》[亚马逊](https://www.amazon.cn/dp/B01ASI36QS) / [豆瓣](https://book.douban.com/subject/26709315/)
