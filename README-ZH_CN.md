@@ -77,7 +77,7 @@
 
 ## 安全
 - 《Python黑帽子:黑客与渗透测试编程之道》[亚马逊](https://www.amazon.cn/dp/B013KKCLE4) / [豆瓣](https://book.douban.com/subject/26590145/)
-- 《Python灰帽子:黑客与逆向工程师的Python编程之道》[亚马逊](https://book.douban.com/subject/6025284/) / [豆瓣](https://book.douban.com/subject/6025284/)
+- 《Python灰帽子:黑客与逆向工程师的Python编程之道》[豆瓣](https://book.douban.com/subject/6025284/)
 - 《Python绝技:运用Python成为顶级黑客》[亚马逊](https://www.amazon.cn/dp/B019ZRGBVU) / [豆瓣](https://book.douban.com/subject/26702570/)
 
 ## 系统管理
@@ -87,7 +87,7 @@
 - 《Testing Python: Applying Unit Testing, TDD, BDD and Acceptance Testing》[豆瓣](https://book.douban.com/subject/25953479/)
 
 ## WEB 开发
-- 《Flask Web开发：基于Python的Web应用开发实战》[亚马逊](https://www.amazon.cn/dp/B00QT2TQCG) / [豆瓣](https://book.douban.com/subject/26274202/)
+- 《Flask Web开发：基于Python的Web应用开发实战》[豆瓣](https://book.douban.com/subject/26274202/)
 - 《深入理解 Flask》[亚马逊](https://www.amazon.cn/dp/B01IA9I2I4) / [豆瓣](https://book.douban.com/subject/26838547/)
 - 《Introduction to Tornado》[豆瓣](https://book.douban.com/subject/7906788/)
 - 《Test-Driven Development with Django》[豆瓣](https://book.douban.com/subject/26608104/)
