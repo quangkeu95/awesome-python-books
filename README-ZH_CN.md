@@ -8,7 +8,7 @@
     - 《父与子的编程之旅:与小卡特一起学Python》[亚马逊](https://www.amazon.cn/dp/B00PG0MMLO) / [豆瓣](https://book.douban.com/subject/26005639/)
     - 《趣学Python编程》[亚马逊](https://www.amazon.cn/dp/B00IM56I5Q) / [豆瓣](https://book.douban.com/subject/25837145/)
     - 《"笨办法"学Python》[亚马逊](https://www.amazon.cn/dp/B00P6OJ0TC) / [在线](https://flyouting.gitbooks.io/learn-python-the-hard-way-cn/content/) / [豆瓣](https://book.douban.com/subject/26264642/)
-    - 《Python编程初学者指南》[亚马逊](https://www.amazon.cn/dp/B00OZVSJAS/) / [豆瓣](https://book.douban.com/subject/26287445/)
+    - 《Python编程初学者指南》[亚马逊](https://www.amazon.cn/dp/B00OZVSJAS/) / [豆瓣](https://book.douban.com/subject/26287445/)
     - 《编程导论》[亚马逊](https://www.amazon.cn/dp/B00W34DZ1M) / [豆瓣](https://book.douban.com/subject/26368668/)
 
 - 入门
